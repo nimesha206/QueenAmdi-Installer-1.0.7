@@ -1,6 +1,6 @@
 {
-    "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "۝⃟̥̩̩̩̥̩̥͚̮♥නිමේෂ♥😝™ࣩ࿔ࣰ🎓❁ཻ͜͡彡😄꧁⃟⃞❀༂❃⃟BOT𝙉𝙄⃞𝙈𝙀𝙎⃟𝙃𝘼❃❀⃟꧂۝⃟̥̩̩̩̥̩̥͚̮ 3.6.2v",
+    "description": "۝⃟̥̩̩̩̥̩̥͚̮♥නිමේෂ♥😝™ࣩ࿔ࣰ🎓❁ཻ͜͡彡😄꧁⃟⃞❀༂❃⃟BOT𝙉𝙄⃞𝙈𝙀𝙎⃟𝙃𝘼❃❀⃟꧂۝⃟̥̩̩̩̥̩̥͚̮ is a chat bot for WhatsApp. 💃🏻❤️",
     "keywords": [
         "Queen Amdi",
         "WhatsApp",
@@ -10,7 +10,7 @@
         "Black Amda"
     ],
     "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "logo": "https://ibb.co/rG9wDwc",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
@@ -31,7 +31,7 @@
         "ALIVE_LOGO": {
             "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/cQrnsXq/Queen-Amdi-Alive.jpg"
+            "value": "https://ibb.co/rG9wDwc"
         },
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
@@ -75,12 +75,12 @@
         "BYE_LOGO": {
             "description": "Picture with good bye message. Paste an image direct link or do '.setbye' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/pbjB2pS/93f527f9f2fb.jpg"
+            "value": "https://ibb.co/rG9wDwc"
         },
         "CAP": {
             "description": "Caption of media files.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₂"
+            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ NIMESHA ₂₀₂4"
         },
         "DEMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.demote' command. If you do not want to change it, keep 'default'.",
@@ -94,12 +94,12 @@
         },
         "GAN_IMAGE": {
             "description": "No need to change.",
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://ibb.co/rG9wDwc"
         },
         "HANDLERS": {
             "description": "Enter bot prefix to use commands. (Don't delete ^[ ])",
             "required": true,
-            "value": "^[.!#]"
+            "value": "^[.-$,!#]"
         },
         "IMGBB": {
             "description": "Paste your imgbb API to change ALIVE,Welcome,Bye pictures by a command. (Visit https://imgbb.com/ and signup there. And get an API key from https://api.imgbb.com/)",
@@ -113,7 +113,7 @@
         "LANGUAGE": {
             "description": "Bot language. Type EN for English and type SI for Sinhala.",
             "required": true,
-            "value": "EN"
+            "value": "SI"
         },
         "MAX_SIZE": {
             "description": "Set maximum media file sending size. Type size in MB. To best performance keep 90mb.",
@@ -166,12 +166,12 @@
         "WELCOME_LOGO": {
             "description": "Picture with welcome message. Paste an image direct link or do '.setwelcome' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/XCfhtfH/301820a4f3c0.jpg"
+            "value": "https://ibb.co/rG9wDwc"
         },
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "HEROKU": {
             "description": "Heroku",
